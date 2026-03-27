@@ -22,4 +22,10 @@ lab9-traffic-matrix-carmenmoncada96
         └── main.py
 ```
 
+All the necessary libraries and packages are in:
+```
+lab9-traffic-matrix-carmenmoncada96
+└── Lab/site-packages
+```
+
 Enjoy!!
