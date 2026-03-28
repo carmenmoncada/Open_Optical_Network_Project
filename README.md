@@ -12,7 +12,6 @@ This is the assigned network topology.
 
 To run the final script with the final configuration and methodology assigned, go to an select 'main_congestion_scenario.py' to run the network when there is not enough network capacity or run 'main_lab09.py' to run the network with only 100 connections:
 
-
 ```
 lab9-traffic-matrix-carmenmoncada96
 └── Lab_09
