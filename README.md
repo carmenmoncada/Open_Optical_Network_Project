@@ -10,7 +10,7 @@ This project focuses on the development of an ROADM (Reconfigurable Optical Add-
 This is the assigned network topology.
 ![Network Diagram](https://github.com/carmenmoncada/Open_Optical_Network_Project/blob/main/presentation_final.jpg)
 
-To run each part of the project (Lab01, Lab02, etc.), execute the main file located in the tasks folder.
+To run each part of the project separately (Lab01, Lab02, and so on), open the main file in the 'Tasks' folder. For example:
 ```
 lab3-network-carmenmoncada96
 └── Lab3
