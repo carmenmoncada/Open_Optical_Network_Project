@@ -10,7 +10,18 @@ This project focuses on the development of an ROADM (Reconfigurable Optical Add-
 This is the assigned network topology.
 ![Network Diagram](https://github.com/carmenmoncada/Open_Optical_Network_Project/blob/main/presentation_final.jpg)
 
-To run the final script with the final configuration and methodology assigned, go to an select 'main_congestion_scenario.py' to run the network when there is not enough network capacity or run 'main_lab09.py' to run the network with only 100 connections:
+To run each part of the project (Lab01, Lab02, etc.), execute the main file located in the tasks folder.
+```
+lab3-network-carmenmoncada96
+└── Lab3
+    └── tasks
+        ├── lab3_network_main.py
+        ├── Lab_04.py
+        ├── Lab_05.py
+        └── Lab_06.py
+```
+
+To run the script with the final configuration and methodologies assigned, go to and select 'main_congestion_scenario.py' to run the network when there is not enough network capacity, or run 'main_lab09.py' to run the network with only 100 connections:
 
 ```
 lab9-traffic-matrix-carmenmoncada96
