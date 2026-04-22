@@ -3,9 +3,9 @@
 This project focuses on the development of an ROADM (Reconfigurable Optical Add-Drop Multiplexer) switch device. All requirements are defined in each LAB folder, which outlines each step needed to reach the final solution. A series of experiments was performed to evaluate the system, including the following measurements:
 
 - Total network capacity
-- Per-link average capacity & GSNR
-- Per-link minimum/maximum capacity & GSNR
-- Blocking event count
+- Per-link average capacity & GSNR (Generalized Signal-to-Noise Ratio )
+- Per-link minimum/maximum capacity & GSNR (Generalized Signal-to-Noise Ratio )
+- Blocking event count (when there is no more capacity in the traffic matrix)
 
 This is the assigned network topology.
 ![Network Diagram](https://github.com/carmenmoncada/Open_Optical_Network_Project/blob/main/presentation_final.jpg)
